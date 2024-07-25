@@ -5,7 +5,7 @@ const blogs =[
         title:"S24 Ultra 5G AI Smartphone",
         content:"Meet Galaxy S24 Ultra, the ultimate form of Galaxy Ultra with a new titanium exterior and a 17.25cm (6.8) flat display Its an absolute marvel of designThe legacy of Galaxy Note is alive and well. Write, tap and navigate with precision your fingers wish they had on the new, flat displayA new way to search is here with Circle to Search. While scrolling your fav social network, use your S Pen or finger to circle something and get Google Search results.",
         author:{
-            name:"Darshika Agrawal",
+            name:"Nandini Hedaoo",
             avatar:"https://i.pravatar.cc/150?img=15"
         },
         date:"march 26 2021",
@@ -20,7 +20,7 @@ const blogs =[
         content:"Packed with a myriad of exciting, innovative features, this Samsung Galaxy F54 smartphone is a revolutionary piece of technology. Rise up to your expectations and level up your excitement as this phone is sure to impress you in all its glory. The Nightography mode takes flawless pictures using Pixel Binning and AI technology with its 108 MP camera Packed with a myriad of exciting, innovative features, this Samsung Galaxy F54 smartphone is a revolutionary piece of technology. Rise up to your expectations and level up your excitement as this phone is sure to impress you in all its glory. The Nightography mode takes flawless pictures using Pixel Binning and AI technology with its 108 MP camera.",
         
         author:{
-            name:"Aditya Jangid",
+            name:"Ganesh Supare",
             avatar:"https://i.pravatar.cc/150?img=16"
          },
          date:"March 21 2021",
